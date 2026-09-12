@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Krishna Pratap Patel 👋
 
-<!--
-**krishnap32422-design/krishnap32422-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend & Full-Stack Developer | DevOps, Cloud & AI Engineering
 
-Here are some ideas to get you started:
+I build practical web applications and backend systems using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### HRMS Management System
+
+A full-stack Human Resource Management System built with:
+
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- JWT Authentication
+- Role-Based Access Control
+
+🔗 [Live HRMS](https://hrms-management-system-1-ejrd.onrender.com/login)
+
+💻 [GitHub Repository](https://github.com/krishnap32422-design/hrms-management-system)
+
+## 🌐 Portfolio
+
+🔗 [Visit My Portfolio](https://krishna-pratap-portfolio.onrender.com)
+
+## 🛠️ Tech Stack
+
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- REST APIs
+- JWT Authentication
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- DevOps
+- Cloud Technologies
+- AI Engineering
+
+## 🎯 Career Direction
+
+Backend Development → DevOps & Cloud → AI Engineering
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/krishnap32422-design
+- LinkedIn: https://www.linkedin.com/in/krishna-pratap-patel-682a47380
+- Email: krishnap32422@gmail.com
